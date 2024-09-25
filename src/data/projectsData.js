@@ -11,9 +11,9 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
+        projectName: 'Real Estate Web Application',
+        projectDesc: 'This project aims to provide buyer and dealer a platform to buy or sell properties and communication with each other in real time',
+        tags: ['React','Nodejs','Expressjs','MongoDB'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: one

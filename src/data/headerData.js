@@ -1,9 +1,9 @@
 import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
-    name: 'Jane Doe',
+    name: 'Vinay Garg',
     title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    desciption:"I am Vinay Garg, a final-year B.Tech student at NIT Kurukshetra, graduating in May 2025. With a deep passion for web development, I have gained substantial hands-on experience as a full-stack web developer during a six-month internship, where I built dynamic, real-world applications from scratch using the MERN stack. I have expertise in responsive design, secure authentication, and creating seamless user interfaces, which reflects my commitment to delivering efficient and user-friendly solutions.",
+    image: 'https://e7.pngegg.com/pngimages/758/371/png-clipart-web-development-web-service-web-developer-digital-marketing-develop-trademark-logo.png',
     resumePdf: resume
 }

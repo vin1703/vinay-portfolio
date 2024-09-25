@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'National Institute of Technology Kurukshetra (NIT)',
+        course: 'Bachelor in Technology',
+        startYear: '2021',
+        endYear: '2025'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'KCM World School',
+        course: '12th Standard',
+        startYear: '2019',
+        endYear: '2020'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
+        institution: 'SDVN SR. SEC. School',
+        course: '10th Standard',
+        startYear: '2017',
+        endYear: '2018'
     },
 ]
