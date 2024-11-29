@@ -13,74 +13,29 @@ export const projectsData = [
         id: 1,
         projectName: 'Real Estate Web Application',
         projectDesc: 'This project aims to provide buyer and dealer a platform to buy or sell properties and communication with each other in real time',
-        tags: ['React','Nodejs','Expressjs','MongoDB'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        tags: ['React','Nodejs','Expressjs','MongoDB',"Prisma"],
+        code: 'https://github.com/vin1703/vinay-portfolio',
+        demo: 'https://estate-2qkt.onrender.com/',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
+        projectName: 'E-Clothing Web Application',
+        projectDesc: 'This project is an E-Commerce Platform that allows users to buy variety of clothes.',
+        tags: ['Reactjs',"Nodejs","Expressjs","MongoDB","Mongoose"],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://e-com-clothing-89lz.onrender.com/',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
+        projectName: 'Driving License Web Application',
+        projectDesc: 'A Web Application that provide easy process to generate online temporary license.',
+        tags: ['Reactjs',"Nodejs","Expressjs","MongoDB","Multer","Cloudinary"],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://easydrive-9nzo.onrender.com/',
         image: three
-    },
-    {
-        id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: four
-    },
-    {
-        id: 5,
-        projectName: 'E-Commerce App',
-        projectDesc: 'A Simple E-commerce application',
-        tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: five
-    },
-    {
-        id: 6,
-        projectName: 'Uber Lite',
-        projectDesc: 'Uber clone',
-        tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: six
-    },
-    {
-        id: 7,
-        projectName: 'Stock Market App',
-        projectDesc: 'A simple stock market API app',
-        tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: seven
-    },
-    {
-        id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
-        tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: eight
-    },
+    }
 ]
 
 
